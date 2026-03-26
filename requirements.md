@@ -35,7 +35,7 @@
 #### DAC
 
 - [ ] GoalID
-- [ ] Type 
+- [ ] Type
 
 ### Treats
 
